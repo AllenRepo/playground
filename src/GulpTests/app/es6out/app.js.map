@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["app.js"],"sourcesContent":["function annonymous(){\r\n\t'ust strict';\r\n\tfor (let i = 0; i < 10; i++)\r\n\t{\r\n\t\tlet i = 'different';\r\n\t}\r\n}"],"file":"app.js","sourceRoot":"/source/"}

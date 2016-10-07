@@ -1,0 +1,1 @@
+System.registerModule("app.js",[],function(){"use strict";return{}}),angular.module("app.templates").run(["$templateCache",function(t){t.put("app/test.tpl.html","<div class=main><span></span> this is some random text.<br></div>"),t.put("app/module/module.tpl.html","<div class=hi>S</div><div class=hi>5</div><div empty class=hi>6</div>")}]);

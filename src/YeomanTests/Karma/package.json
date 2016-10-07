@@ -1,0 +1,23 @@
+{
+  "name": "karma",
+  "version": "1.0.0",
+  "description": "karma yeoman",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "generator-karma": "^1.0.0",
+    "yo": "^1.4.7"
+  },
+  "devDependencies": {
+    "grunt-karma": "*",
+    "karma-jasmine": "*",
+    "karma-phantomjs-launcher": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allen Chen",
+  "license": "MIT"
+}

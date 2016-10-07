@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "Playground"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-Playground-6f08dae4-1775-4d0f-8519-e9d7a61ca374;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}

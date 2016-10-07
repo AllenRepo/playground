@@ -1,0 +1,12 @@
+{
+  "name": "GulpTests",
+  "version": "1.0.0",
+  "description": "Javascript tests",
+  "authors": [
+    "Allen Chen"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angularjs": "~1.4.0"
+  }
+}
